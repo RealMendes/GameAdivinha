@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Game Adivinha
 
  Projeto criado para atividade prática final da matéria de raciocinio lógico no curso de Ánalise e desenvolvimento de sistemas da faculdade UNINTER, com intuito de demonstrar o uso do racicionio lógico na programação.
